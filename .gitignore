@@ -1,0 +1,104 @@
+# =========================
+# UNIVERSAL JUNK
+# =========================
+
+*.log
+*.tmp
+*.cache
+*.bak
+*.swp
+*.swo
+*.old
+*.orig
+
+.cache/
+.cache/**
+.local/
+.local/**
+qBittorrent/
+vlc/art/
+vlc/cache/
+go/
+Logseq/
+
+
+# =========================
+# VSCode / VSCodium (HUGE - MUST IGNORE)
+# =========================
+
+Code/
+Code - OSS/
+VSCodium/
+Android Open Source Project/
+notepad++/
+wlogout-catppuccin/
+libreoffice/
+
+# =========================
+# JetBrains (contains binaries and caches)
+# =========================
+
+JetBrains/
+
+# =========================
+# Chromium / Browsers (profiles are massive)
+# =========================
+
+chromium/
+Google/
+mozilla/
+
+# =========================
+# Spotify cache
+# =========================
+
+spotify/
+
+# =========================
+# MongoDB Compass binaries/cache
+# =========================
+
+MongoDB Compass/
+
+# =========================
+# Qt cache files (machine-specific)
+# =========================
+
+QtProject.conf
+qtvirtualkeyboard/
+
+# =========================
+# Libvirt VM configs (optional ignore)
+# =========================
+
+libvirt/
+
+# =========================
+# System generated runtime files
+# =========================
+
+pulse/
+dconf/
+
+# =========================
+# Things you SHOULD track (DO NOT IGNORE THESE)
+# =========================
+
+# hypr/
+# waybar/
+# kitty/
+# rofi/
+# dunst/
+# starship.toml
+# fastfetch/
+# cava/
+# gtk-3.0/
+# gtk-4.0/
+# wlogout/
+# wlogout-catppuccin/
+# tofi/
+# wal/
+# xsettingsd/
+# mimeapps.list
+# nwg-look/
+

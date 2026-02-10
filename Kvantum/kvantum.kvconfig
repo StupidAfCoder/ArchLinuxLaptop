@@ -1,0 +1,5 @@
+[General]
+theme=catppuccin-frappe-rosewater#
+
+[Applications]
+catppuccin-frappe-rosewater%23=firefox, nautilus
